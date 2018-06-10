@@ -1,0 +1,128 @@
+\form#0:$[A | I ]$
+\form#1:$[ I | A^{-1}]$
+\form#2:$Ax = b$
+\form#3:$A$
+\form#4:$b$
+\form#5:$M^{\dagger}A$
+\form#6:$M^{\dagger}b$
+\form#7:$M^{\dagger}$
+\form#8:$L_2$
+\form#9:$L_2^2$
+\form#10:$L_1$
+\form#11:$L_\infty$
+\form#12:$\hat{v}$
+\form#13:$[v_1, v_2, \cdots, v_{i-1}] / v_i $
+\form#14:$[v_1, v_2, \cdots, v_{i}, 1]$
+\form#15:$ \frac{m + m^{\mathsf T}}{2} $
+\form#16:$w(x)=\frac{1}{\sigma + |x|}$
+\form#17:$w(x)=\frac{1}{\sigma + x^2}$
+\form#18:$w(x)=1$
+\form#19:$\sigma$
+\form#20:$w(x)$
+\form#21:$w(x) + xw'(x)$
+\form#22:$\int xw(x)dx$
+\form#23:$M\underline{x} = \underline{c}$
+\form#24:$M$
+\form#25:\[M = L \times U\]
+\form#26:$L$
+\form#27:$U$
+\form#28:$M^{-1}A$
+\form#29:$M^{-1}b$
+\form#30:\[ AP = QR \]
+\form#31:$P$
+\form#32:$R$
+\form#33:$i$
+\form#34:$P(i)$
+\form#35:$QR$
+\form#36:$2\times 3$
+\form#37:$\underline{x}$
+\form#38:$\underline{x}'$
+\form#39:\[\begin{aligned}\underline{x}' &= E\times\underline{x}\\ \begin{bmatrix}x'\\y'\end{bmatrix} &= \begin{pmatrix}r_{11} & r_{12} & t_1\\r_{21} & r_{22} & t_2\end{pmatrix}\begin{bmatrix}x\\y\\1\end{bmatrix}\end{aligned}\]
+\form#40:$3\times$
+\form#41:\[\begin{aligned}\underline{x}' &= E\times\underline{x}\\ \begin{bmatrix}x'\\y'\\z'\end{bmatrix} &= \begin{pmatrix}r_{11} & r_{12} & r_{13} & t_1\\r_{21} & r_{22} & r_{23} & t_2\\r_{31} & r_{32} & r_{33} & t_3\end{pmatrix}\begin{bmatrix}x\\y\\z\\1\end{bmatrix}\end{aligned}\]
+\form#42:$ B $
+\form#43:$ e^{\text{Adj}(v)} = Be^{v}B^{-1} $
+\form#44:\[\begin{aligned}\underline{x}' &= E\times\underline{x}\\ \begin{bmatrix}x'\\y'\\z'\end{bmatrix} &= \begin{pmatrix}s r_{11} & s r_{12} & s r_{13} & t_1\\s r_{21} & s r_{22} & s r_{23} & t_2\\s r_{31} & s r_{32} & s r_{33} & t_3\end{pmatrix}\begin{bmatrix}x\\y\\z\\1\end{bmatrix}\end{aligned}\]
+\form#45:$\vec{w}$
+\form#46:$ \theta = |\vec{w}|$
+\form#47:$\frac{\sin \theta}{\theta}$
+\form#48:$\frac{1 - \cos \theta}{\theta^2}$
+\form#49:$ \sum_i w_iG_i$
+\form#50:$3\times3$
+\form#51:$ M $
+\form#52:$Adj()$
+\form#53:$ e^{\text{Adj}(v)} = Me^{v}M^{-1} $
+\form#54:\[M = U \times D \times V^T\]
+\form#55:$D$
+\form#56:$V$
+\form#57:\[M^{\dagger} = V \times D^{-1} \times U^T\]
+\form#58:$D^{-1}$
+\form#59:\[M = U \times \Lambda \times U^T\]
+\form#60:$U^T = U^{-1}$
+\form#61:$\Lambda$
+\form#62:$Lambda^{-1}$
+\form#63:$U^T$
+\form#64:$\sigma^2 = \frac{1}{\text{val}}$
+\form#65:$\sigma_i^2 = \frac{1}{\text{v}_i}$
+\form#66:$m$
+\form#67:$\frac{\partial\text{m}}{\partial\text{param}_i}$
+\form#68:$\frac{\partial\text{m}_i}{\partial\text{param}_j}$
+\form#69:$J^\dagger e$
+\form#70:$J^{\mathsf T} e$
+\form#71:$(J^{\mathsf T} J + P)^{-1}$
+\form#72:$ a < x < b $
+\form#73:$ f(a) > f(x) < f(b) $
+\form#74:\[ g(a) = \Vec{s} + a \Vec{d} \]
+\form#75:$f(x),\ x>0$
+\form#76:$x$
+\form#77:$f(x)$
+\form#78:$\Vec{s}$
+\form#79:$\Vec{d}$
+\form#80:$f(\cdotp)$
+\form#81:$f(\vec{s} + x\vec{d})$
+\form#82:$x_\mathrm{optimal} = 0$
+\form#83:$*100$
+\form#84:$\nabla f(x)$
+\form#85:$N+1$
+\form#86:$f$
+\form#87:$x_w$
+\form#88:$x_0$
+\form#89:$v = x_0 - x_w$
+\form#90:$ x_r = x_0 + \alpha v$
+\form#91:$f(x_r)$
+\form#92:$x_e = x_0 + \rho \alpha v $
+\form#93:$x_e$
+\form#94:$x_r$
+\form#95:$x_c = x_0 + \gamma v$
+\form#96:$f(x_c) < f(x_r)$
+\form#97:$x_c$
+\form#98:$\alpha = 1$
+\form#99:$\rho = 2$
+\form#100:$\gamma = 1/2$
+\form#101:$\sigma = 1/2$
+\form#102:$ a < b < c $
+\form#103:$ f(a) > f(b) < f(c) $
+\form#104:$3\times4$
+\form#105:\[\begin{matrix}\text{Row major} & \text {Column major}\\ \begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix} & \begin{bmatrix}1&4&7\\2&5&8\\3&6&9\end{bmatrix} \end{matrix}\]
+\form#106:$h$
+\form#107:$h_i$
+\form#108:$ y_i = f(h_i)$
+\form#109:\[ \begin{array}{ccccccc} h_0 & y_0 & P_0 & & & \\ & & & P_{01} & & \\ h_1 & y_1 & P_1 & & P_{012} & \\ & & & P_{12} & & P_{0123} \\ h_2 & y_2 & P_2 & & P_{123} & \\ & & & P_{23} & & \\ h_3 & y_3 & P_3 & & & \\ \end{array} \]
+\form#110:$P_{123}$
+\form#111:$ h$
+\form#112:$P_i = y_i = f(h_i)$
+\form#113:\begin{equation} P_{k\cdots n} = \frac{(h - h_n)P_{k \cdots n-1} + (h_k - h)P_{k+1 \cdots n}}{h_k - h_n} \end{equation}
+\form#114:$ h=0 $
+\form#115:$ h_i = c^{-i} $
+\form#116:$ c $
+\form#117:\[ P_{k \cdots n} = \frac{c^{-k} P_{k+1 \cdots n} - P_{k \cdots n-1}}{c^{n - k} - 1} \]
+\form#118:$P_{234}$
+\form#119:$P_{34}$
+\form#120:$P_{23}$
+\form#121:$ t $
+\form#122:$ c = 1.1 $
+\form#123:$ t = 2 $
+\form#124:\[ \frac{\partial^2 f}{\partial x^2} \approx \frac{f(x-h) - 2f(x) + f(x+h)}{h^2} \]
+\form#125:\[ \frac{\partial^2 f}{\partial x\partial y} \approx \frac{f(x+h, y+h) - f(x-h,y+h) - f(x+h, y-h) + f(x-h, y-h)}{4h^2} \]
+\form#126:\[ \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 + \epsilon & 3 \\ 1 & 2 & 3 + \epsilon \end{bmatrix}, \]
+\form#127:\[ \|A^{-1} A - I\|_{\text{fro}} \]

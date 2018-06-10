@@ -1,0 +1,51 @@
+kf_min_common_tracks_number_two_key_frames = 200
+kf_min_common_tracks_number_three_key_frames = 100
+
+hkm_clustered_track_length_key_frame = 3
+
+hkm_clusters_number_per_level = 2
+hkm_max_levels_number = 15
+hkm_max_iterations_number_total = 50
+hkm_max_iterations_number_center_moving = 5
+hkm_average_distortion_threshold = 0.032
+
+feature_texture_width = 64
+
+sift_max_features_number = 2048
+sift_matching_descriptor_dot_product_threshold = 0.95
+sift_matching_descriptor_nearest_first_to_second_ratio_threshold = 0.7
+
+enft_max_iterations_number_initial_matching_matrix = 100
+enft_max_iterations_number_updating_matching_matrix = 1000
+enft_min_confidence_initial_matching_matrix_ratio = 0.1
+enft_min_confidence_updating_matching_matrix = 20
+enft_positive_voting_threshold = 5
+//enft_positive_voting_threshold = 3
+//enft_positive_voting_ratio_threshold = 1.0
+enft_positive_voting_ratio_threshold = 0.8
+//enft_positive_voting_ratio_threshold = 0.5
+//enft_positive_voting_ratio_threshold = 0
+enft_frame_pair_window_size = 3
+//enft_frame_pair_window_size = 1
+//enft_frame_pair_window_size = 0
+enft_merge_distance_threshold = 2.0
+
+error_threshold_epipolar = 2.0
+
+error_threshold_reprojection_camera = 0.0
+//error_threshold_reprojection_camera = 10.0
+error_threshold_reprojection_point = 2.0
+
+ransac_min_iterations_number_epipolar = 100
+ransac_max_iterations_number_epipolar = 300
+ransac_min_iterations_number_camera = 150
+ransac_max_iterations_number_camera = 300
+ransac_min_inliers_number_camera = 20
+
+remove_single_track = 1
+//remove_single_track = 0
+
+stop = 0
+//stop = 1
+view = 0
+//view = 1
