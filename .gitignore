@@ -43,10 +43,19 @@ local.properties
 
 # Build results
 
-[Dd]ebug/
-[Rr]elease/
+# [Dd]ebug/
+# [Rr]elease/
 # x64/
-build/
+# build/
+*.tlog
+ENFT.exe
+ENFT.lib
+*.exp
+*.lastbuildstate
+*.rc
+*.idb
+*.manifest
+*.res
 [Bb]in/
 [Oo]bj/
 

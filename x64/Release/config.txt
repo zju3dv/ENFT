@@ -1,0 +1,7 @@
+
+videos = 1
+video_0_image = .\data\0\0000.jpg
+video_0_start = 0
+video_0_step = 1
+video_0_end = 100
+param_directory = .\param\
